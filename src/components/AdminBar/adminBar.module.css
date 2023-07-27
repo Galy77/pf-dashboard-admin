@@ -1,0 +1,33 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(191, 219, 247);
+  width: 250px;
+  height: 100vh;
+  border-radius: 10px;
+}
+
+.text{
+  color: black;
+  font-size: 20px;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.text:hover {
+  color: white;
+}
+
+.textContainer{
+  margin-top: 10px;
+}
+
+.buttonDeshabilidato{
+  color:white;
+  background-color: #d2322d;
+  border-color: #ac2925;
+}
+
+.buttonDeshabilidato:hover{
+  background-color: #860e0a;
+}

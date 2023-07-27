@@ -1,0 +1,35 @@
+.userContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 20vh;
+    align-items: center;
+    height: fit-content;
+    width: fit-content;
+}
+
+.guide{
+    display: flex;
+    flex-direction: row;
+    gap: 22vh;
+}
+
+.userImage{
+    width: 4vh;
+    height: 4vh;
+    border-radius: 100px;
+}
+
+.imageDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px
+}
+
+.userId{
+    text-align: start;
+}
+
+.title{
+    text-align: center;
+}
